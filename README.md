@@ -20,8 +20,8 @@ Presentation is available under [this link](https://gitlab.com/sda-international
 ## Requirements
 
 Before you start make sure that you have a basic understanding of the following concepts:
-1. Maven - how to create a project and import dependencies [this link](https://maven.apache.org/guides/getting-started/)
-2. Tomcat - how to run a web application on an application server [Intellij](https://www.jetbrains.com/help/idea/configuring-and-managing-application-server-integration.html) [Eclipse](https://help.eclipse.org/neon/index.jsp?topic=%2Forg.eclipse.stardust.docs.wst%2Fhtml%2Fwst-integration%2Fconfiguration.html)
+1. Maven - how to create a project and import dependencies: [Getting started with Maven](https://maven.apache.org/guides/getting-started/)
+2. Tomcat - how to run a web application on an application server: [Using IntelliJ IDEA](https://www.jetbrains.com/help/idea/configuring-and-managing-application-server-integration.html)  /  [Using Eclipse](https://help.eclipse.org/neon/index.jsp?topic=%2Forg.eclipse.stardust.docs.wst%2Fhtml%2Fwst-integration%2Fconfiguration.html)
 
 # Further reading
 
