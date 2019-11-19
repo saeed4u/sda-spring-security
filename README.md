@@ -15,7 +15,7 @@ Some of the key topics that are going to be explained during this module are:
 
 
 ## Presentation
-Presentation is available under [this link](https://gitlab.com/sda-international/program/java/spring/wikis/uploads/e180ee4167ab715df11dc687a5c968e8/11_Spring.pdf).
+Presentation is available under [this link](https://gitlab.com/sda-international/program/java/spring/wikis/uploads/f603b9bf06725256f3745abe5adae5a0/16_Spring.pdf).
 
 ## Requirements
 
